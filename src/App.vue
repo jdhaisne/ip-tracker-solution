@@ -9,10 +9,10 @@
           @searchIp="searchIp"
           >
           </trackerHeader>
-          <ipMap
-          :ipGeolocalisation="ipGeolocalisation">
-          </ipMap>
         </div>
+        <ipMap
+          :ipGeolocalisation="ipGeolocalisation">
+        </ipMap>
       </div>
   </div>
 </template>

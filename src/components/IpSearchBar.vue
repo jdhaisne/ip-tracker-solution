@@ -1,6 +1,6 @@
 <template>
     <div class="row search-bar-wrapper">
-      <div class="row col-8 search-bar">
+      <div class="row col-xs-12 search-bar">
         <div class="col-10">
             <input
               :value="ipAddress"
